@@ -1,0 +1,11 @@
+C:\Users\Nofisat\Desktop\C#Projects\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.csprojAssemblyReference.cache
+C:\Users\Nofisat\Desktop\C#Projects\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\Nofisat\Desktop\C#Projects\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.AssemblyInfo.cs
+C:\Users\Nofisat\Desktop\C#Projects\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.exe
+C:\Users\Nofisat\Desktop\C#Projects\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.deps.json
+C:\Users\Nofisat\Desktop\C#Projects\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.runtimeconfig.json
+C:\Users\Nofisat\Desktop\C#Projects\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.runtimeconfig.dev.json
+C:\Users\Nofisat\Desktop\C#Projects\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.dll
+C:\Users\Nofisat\Desktop\C#Projects\NumberGuessingGame\bin\Debug\netcoreapp3.1\NumberGuessingGame.pdb
+C:\Users\Nofisat\Desktop\C#Projects\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.dll
+C:\Users\Nofisat\Desktop\C#Projects\NumberGuessingGame\obj\Debug\netcoreapp3.1\NumberGuessingGame.pdb

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Nofisat\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Nofisat\\.nuget\\packages"
+    ]
+  }
+}
